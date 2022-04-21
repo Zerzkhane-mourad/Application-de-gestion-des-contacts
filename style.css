@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Libre+Baskerville&family=Merriweather:ital,wght@0,700;1,700&family=Montserrat:wght@400;700;900&family=Roboto+Condensed:wght@700&display=swap');
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        font-family: 'Montserrat';
+        font-size: small;
+    }
+    .signup{
+        width: 25rem;
+    
+    }
+    /* if(phone.value.trim()==""){
+        document.getElementById('messagephone').innerHTML ="Please fill the phone field";
+        erreur = false ;
+    }else if(phone.value.match(regphone)){
+        document.getElementById('messagephone').innerHTML ="";
+    }else{
+        document.getElementById('messagephone').innerHTML = "phone invalid";
+        erreur = false ;
+    }
+
+    if (address.value.trim() == "") {
+        document.getElementById('messageaddress').innerHTML = "Please fill the address";
+        erreur = false;
+    }else if (name.value.match(regname)){
+        document.getElementById('messageaddress').innerHTML = "";
+    }else{
+        document.getElementById('messageaddress').innerHTML = "Address invalid ";
+        erreur = false;
+    } */
+    
